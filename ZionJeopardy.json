@@ -1,0 +1,373 @@
+{
+    "game": {
+        "single": [
+            {
+                "category": "Times and Dates",
+                "clues": [
+                    {
+                        "value": 100,
+                        "clue": "Abolishment of the Passover",
+                        "solution": "325 AD"
+                    },
+                    {
+                        "value": 200,
+                        "clue": "The Edict of Milan",
+                        "solution": "313 AD"
+                    },
+                    {
+                        "value": 300,
+                        "clue": "Construction of Solomon's Temple",
+                        "solution": "959 BC"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Fall of the Northern Kingdom of Israel to Assyria",
+                        "solution": "722 BC"
+                    },
+                    {
+                        "value": 500,
+                        "clue": "Fall of the Southern Kingdom of Judah to Babylon",
+                        "solution": "586 BC"
+                    }
+                ]
+            },
+            {
+                "category": "Old Testament   New Testament",
+                "clues": [
+                    {
+                        "value": 100,
+                        "clue": "Animal sacrifice",
+                        "solution": "Old Testament"
+                    },
+                    {
+                        "value": 200,
+                        "clue": "The Ten Plagues occurred in Egypt",
+                        "solution": "Old Testament"
+                    },
+                    {
+                        "value": 300,
+                        "clue": "How many books are in the Old and New Testament?",
+                        "solution": "Old: 39 - New: 27"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "How many books of the Old Testament are classified as prophetic? (written by a prophet?)",
+                        "solution": "17 Books"
+                    },
+                    {
+                        "value": 500,
+                        "clue": "How many books in the New Testament directly quote from the Old Testament?",
+                        "solution": "21 Books"
+                    }
+                ]
+            },
+            {
+                "category": "Where does it say",
+                "clues": [
+                    {
+                        "value": 100,
+                        "clue": "Whoever eats my flesh and blood has Eternal Life?",
+                        "solution": "John 6:53-54"
+                    },
+                    {
+                        "value": 200,
+                        "clue": "But go and learn what this means: 'I desire mercy, not sacrifice.' For I have not come to call the righteous, but sinners.",
+                        "solution": "Matthew 9:13"
+                    },
+                    {
+                        "value": 300,
+                        "clue": "Blessed is the one who does this-- the person who holds it fast, who keeps the Sabbath without desecrating it, and keeps their hands from doing any evil.",
+                        "solution": "Isaiah 56:2"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Like clouds and wind without rain is one who boasts of gifts never given.",
+                        "solution": "Proverbs 25:14"
+                    },
+                    {
+                        "value": 500,
+                        "clue": "\"Am I only a God nearby\" declares theLord \"and not a God far away?\"",
+                        "solution": "Jeremiah 23:23"
+                    }
+                ]
+            },
+            {
+                "category": "Who said it",
+                "clues": [
+                    {
+                        "value": 100,
+                        "clue": "Who said, \"Let there be light\"?",
+                        "solution": "God"
+                    },
+                    {
+                        "value": 200,
+                        "clue": "Who said, \"Am I my brother's keeper?\"",
+                        "solution": "Cain"
+                    },
+                    {
+                        "value": 300,
+                        "clue": "Who said, \"Speak, for your servant is listening\"",
+                        "solution": "Samuel"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Who said, \"Everything I heard in my country about your achievements and wisdom is true!... Truly I had not heard the half of it! Your wisdom is far greater than what I was told\"",
+                        "solution": "The Queen of Sheba"
+                    },
+                    {
+                        "value": 500,
+                        "clue": "Who said, \"You rebuke the arrogant, who are accursed, those who stray from your commands.\"",
+                        "solution": "David (Psalms 119:21)"
+                    }
+                ]
+            },
+            {
+                "category": "Bible History",
+                "clues": [
+                    {
+                        "value": 100,
+                        "clue": "The first man to speak with God.",
+                        "solution": "Adam"
+                    },
+                    {
+                        "value": 200,
+                        "clue": "Who built the first temple in Israel",
+                        "solution": "Solomon"
+                    },
+                    {
+                        "value": 300,
+                        "clue": "Which empire destroyed the first temple",
+                        "solution": "Babylonian Empire"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "What major event happened 50 days after Jesus' resurrection",
+                        "solution": "Pentecost"
+                    },
+                    {
+                        "value": 500,
+                        "clue": "To protect her family, when the Israelites stormed the city, what did Rahab hang out her window?",
+                        "solution": "A Scarlet rope"
+                    }
+                ]
+            },
+            {
+                "category": "Feast of God",
+                "clues": [
+                    {
+                        "value": 100,
+                        "clue": "What day of the week is Ressurection Day?",
+                        "solution": "Sunday"
+                    },
+                    {
+                        "value": 200,
+                        "clue": "What date is the Passover according to the sacred calendar?",
+                        "solution": "The 14th Day of the 1st month"
+                    },
+                    {
+                        "value": 300,
+                        "clue": "How many feasts are in three times?",
+                        "solution": "Seven (Seven feasts in three times Dt 16:16)"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "The Feast of Weeks is also called what?",
+                        "solution": "Feast of Harvest (Ex 23:14)"
+                    },
+                    {
+                        "value": 500,
+                        "clue": "Name all the seven feasts, in order.",
+                        "solution": "1) Passover 2) Feast of Unleavened Bread 3) Day of Firstfruits (Day of Ressurection) 4) Feast of Weeks (Day of Pentecost) 5) Feast of Trumpets 6) Day of Atonement 7) Feast of Tabernacles"
+                    }
+                ]
+            }
+        ],
+        "double": [
+            {
+                "category": "Old Testament   New Testament",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Parting the Red Sea",
+                        "solution": "Old Testament"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "A Prophet was thrown into a den of lions",
+                        "solution": "Old Testament"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "How many books are in the Old and New Testament?",
+                        "solution": "Old: 39 - New: 27"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "How many books of the Old Testament are classified as prophetic? (written by a prophet?)",
+                        "solution": "17 Books"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "How many books in the New Testament directly quote from the Old Testament?",
+                        "solution": "21 Books"
+                    }
+                ]
+            },
+            {
+                "category": "Bible Facts",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Who is the Lamb?",
+                        "solution": "Jesus"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Who is known as the \"Weeping Prophet?\"",
+                        "solution": "Jeremiah (Jer 13:17, 14:17)"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "Where is a prophet without honor?",
+                        "solution": "In his own hometown. (Mark 6:4)"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "In the parable of the Good Samaritan, who passed by the beaten man?",
+                        "solution": "A Priest and a Levite"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "What gifts did the three magi give to Jesus?",
+                        "solution": "Gold, Frankincense, and Myrrh"
+                    }
+                ]
+            },
+            {
+                "category": "Times and Dates",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Abolishment of the Passover",
+                        "solution": "325 AD"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "The Edict of Milan",
+                        "solution": "313 AD"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "Birth of Jesus Christ",
+                        "solution": "5 BC"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Fall of the Northern Kingdom of Israel to Assyria",
+                        "solution": "722 BC"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "Fall of the Southern Kingdom of Judah to Babylon",
+                        "solution": "586 BC"
+                    }
+                ]
+            },
+            {
+                "category": "True or False",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "The Bible was originally written in English",
+                        "solution": "FALSE"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Paul was one of the original twelve disciples",
+                        "solution": "FALSE"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "John the Baptist was a cousin of Jesus",
+                        "solution": "TRUE"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Jesus was born in the city of Nazareth",
+                        "solution": "FALSE"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "The Book of Job is considered one of the oldest books in the Bible",
+                        "solution": "TRUE"
+                    }
+                ]
+            },
+            {
+                "category": "Feast of God",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "What day of the week is Ressurection Day?",
+                        "solution": "Sunday"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "What feast is the 15th day of the first month?",
+                        "solution": "Feast of Unleavened Bread"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "How many feasts are in three times?",
+                        "solution": "Seven (Seven feasts in three times Dt 16:16)"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "The Feast of Weeks is also called what?",
+                        "solution": "Feast of Harvest (Ex 23:14)"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "Name all the seven feasts, in order.",
+                        "solution": "1) Passover 2) Feast of Unleavened Bread 3) Day of Firstfruits (Day of Ressurection) 4) Feast of Weeks (Day of Pentecost) 5) Feast of Trumpets 6) Day of Atonement 7) Feast of Tabernacles"
+                    }
+                ]
+            },
+            {
+                "category": "Who said it",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Who said, \"Look, I'm dying of starvation!... What good is my birthright to me now?\"",
+                        "solution": "Esau"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Who said, \"I have been going back and forth across the earth, watching everything thats going on\"",
+                        "solution": "Satan"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "Who said, \"My God sent his angel to the lions' mouths so that they would not hurt me.\"",
+                        "solution": "Daniel"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Who said, \"Everything I heard in my country about your achievements and wisdom is true!... Truly I had not heard the half of it! Your wisdom is far greater than what I was told\"",
+                        "solution": "The Queen of Sheba"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "Who said, \"You rebuke the arrogant, who are accursed, those who stray from your commands.\"",
+                        "solution": "David (Psalms 119:21)"
+                    }
+                ]
+            }
+        ],
+        "final": {
+            "category": "Final Question",
+            "clue": "What major event happened 50 days after Jesus' resurrection",
+            "solution": "Pentecost"
+        }
+    }
+}
