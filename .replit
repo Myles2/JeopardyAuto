@@ -1,0 +1,13 @@
+modules = ["python-3.11"]
+
+[workflows]
+runButton = "Jeopardy Auto Json Template"
+
+[[workflows.workflow]]
+name = "Jeopardy Auto Json Template"
+mode = "sequential"
+author = 41568826
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python \"import csv.py\""

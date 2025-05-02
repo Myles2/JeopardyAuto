@@ -134,7 +134,7 @@ def generate_game_json(categories_folder, output_filename, output_answers):
             file.write("\n")
             for set in list:
                 file.write(f"Value: {set[0]}, Clue: {set[1]}, Solution: {set[2]}\n")
-        file.write(f"\nFinal Question: {final_clue["clue"]}, Solution: {final_clue["solution"]}")
+        file.write(f"Final Question: {final_clue["clue"]}, Solution: {final_clue["solution"]}")
 
 
     # Write the JSON data to a file
