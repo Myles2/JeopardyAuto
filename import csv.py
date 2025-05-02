@@ -23,10 +23,11 @@ def load_questions_from_csv(csv_filename):
                 })
     return questions
 
-def generate_game_json(categories_folder, output_filename):
+def generate_game_json(categories_folder, output_filename, output_answers):
     # Initialize lists to hold the categories for both rounds
     single_categories = []
     double_categories = []
+    answers = []
 
     # Get a list of all CSV files in the folder
     all_files = [f for f in os.listdir(categories_folder) if f.endswith('.csv')]
@@ -44,6 +45,8 @@ def generate_game_json(categories_folder, output_filename):
 
         # Initialize lists for single jeopardy clues
         category_clues_single = []
+        # List for answers
+        category_answers_single = []
 
         # Ensure exactly one question for each point value (100, 200, 300, 400, 500) in single jeopardy
         point_values_single = [100, 200, 300, 400, 500]
@@ -53,12 +56,15 @@ def generate_game_json(categories_folder, output_filename):
             question = next((q for q in questions if q["value"] == point_value), None)
             if question:
                 category_clues_single.append(question)
+                category_answers_single.append([question["value"], question["clue"], question["solution"]])
 
         # Add category to single jeopardy list
         single_categories.append({
             "category": category_name,
             "clues": category_clues_single
         })
+
+        answers.append(category_answers_single)
 
     # Choose 6 random CSV files (i.e., 6 categories) for the double round
     selected_files_double = random.sample(all_files, 6)
@@ -73,6 +79,8 @@ def generate_game_json(categories_folder, output_filename):
 
         # Initialize lists for double jeopardy clues
         category_clues_double = []
+        # List for answers
+        category_answers_double = []
 
         # Ensure exactly one question for each point value (200, 400, 600, 800, 1000) in double jeopardy
         point_values_double = [200, 400, 600, 800, 1000]
@@ -88,12 +96,15 @@ def generate_game_json(categories_folder, output_filename):
                 doubled_question = question.copy()
                 doubled_question["value"] = point_value
                 category_clues_double.append(doubled_question)
+                category_answers_double.append([doubled_question["value"], doubled_question["clue"], doubled_question["solution"]])
 
         # Add category to double jeopardy list
         double_categories.append({
             "category": category_name,
             "clues": category_clues_double
         })
+        answers.append(category_answers_double)
+        
 
         # Create the final jeopardy clue (pick one random clue from all categories with a value of 300 or above)
     all_clues = [clue for category in single_categories for clue in category["clues"]]
@@ -118,6 +129,13 @@ def generate_game_json(categories_folder, output_filename):
         }
     }
 
+    with open(output_answers, 'w') as file:
+        for list in answers:
+            file.write("\n")
+            for set in list:
+                file.write(f"Value: {set[0]}, Clue: {set[1]}, Solution: {set[2]}\n")
+        file.write(f"\nFinal Question: {final_clue["clue"]}, Solution: {final_clue["solution"]}")
+
 
     # Write the JSON data to a file
     with open(output_filename, 'w', encoding='utf-8') as jsonfile:
@@ -126,7 +144,8 @@ def generate_game_json(categories_folder, output_filename):
 # Specify the folder where your CSV files are located and the output JSON filename
 categories_folder = 'categories'  # Folder containing your CSV files
 output_filename = 'ZionJeopardy.json'  # Name of the output JSON file
+output_answers = 'Answers.txt' # Name of the Answer file
 
 # Generate the game JSON and save to file
-generate_game_json(categories_folder, output_filename)
+generate_game_json(categories_folder, output_filename, output_answers)
 

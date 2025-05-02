@@ -1,0 +1,373 @@
+{
+    "game": {
+        "single": [
+            {
+                "category": "Times and Dates",
+                "clues": [
+                    {
+                        "value": 100,
+                        "clue": "Abolishment of the Passover",
+                        "solution": "325 AD"
+                    },
+                    {
+                        "value": 200,
+                        "clue": "The Edict of Milan",
+                        "solution": "313 AD"
+                    },
+                    {
+                        "value": 300,
+                        "clue": "Construction of Solomon's Temple",
+                        "solution": "959 BC"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Fall of the Northern Kingdom of Israel to Assyria",
+                        "solution": "722 BC"
+                    },
+                    {
+                        "value": 500,
+                        "clue": "The year that King Josiah of Judah was killed at Megiddo by Pharaoh Necho II",
+                        "solution": "609 BC"
+                    }
+                ]
+            },
+            {
+                "category": "Bible Facts",
+                "clues": [
+                    {
+                        "value": 100,
+                        "clue": "How many books are in the bible?",
+                        "solution": "66"
+                    },
+                    {
+                        "value": 200,
+                        "clue": "Who is known as the \"Weeping Prophet?\"",
+                        "solution": "Jeremiah (Jer 13:17, 14:17)"
+                    },
+                    {
+                        "value": 300,
+                        "clue": "Where is a prophet without honor?",
+                        "solution": "In his own hometown. (Mark 6:4)"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "In the parable of the Good Samaritan, who passed by the beaten man?",
+                        "solution": "A Priest and a Levite"
+                    },
+                    {
+                        "value": 500,
+                        "clue": "What gifts did the three magi give to Jesus?",
+                        "solution": "Gold, Frankincense, and Myrrh"
+                    }
+                ]
+            },
+            {
+                "category": "Bible History",
+                "clues": [
+                    {
+                        "value": 100,
+                        "clue": "The first man to speak with God.",
+                        "solution": "Adam"
+                    },
+                    {
+                        "value": 200,
+                        "clue": "Who built the first temple in Israel",
+                        "solution": "Solomon"
+                    },
+                    {
+                        "value": 300,
+                        "clue": "Which empire destroyed the first temple",
+                        "solution": "Babylonian Empire"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "What major event happened 50 days after Jesus' resurrection",
+                        "solution": "Pentecost"
+                    },
+                    {
+                        "value": 500,
+                        "clue": "To protect her family, when the Israelites stormed the city, what did Rahab hang out her window?",
+                        "solution": "A Scarlet rope"
+                    }
+                ]
+            },
+            {
+                "category": "Old Testament   New Testament",
+                "clues": [
+                    {
+                        "value": 100,
+                        "clue": "Animal sacrifice",
+                        "solution": "Old Testament"
+                    },
+                    {
+                        "value": 200,
+                        "clue": "The Ten Plagues occurred in Egypt",
+                        "solution": "Old Testament"
+                    },
+                    {
+                        "value": 300,
+                        "clue": "Which testament speaks of a royal priesthood and a holy nation?",
+                        "solution": "New Testament"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "How many books of the Old Testament are classified as prophetic? (written by a prophet?)",
+                        "solution": "17 Books"
+                    },
+                    {
+                        "value": 500,
+                        "clue": "How many books in the New Testament directly quote from the Old Testament?",
+                        "solution": "21 Books"
+                    }
+                ]
+            },
+            {
+                "category": "Who said it",
+                "clues": [
+                    {
+                        "value": 100,
+                        "clue": "Who said, \"Let there be light\"?",
+                        "solution": "God"
+                    },
+                    {
+                        "value": 200,
+                        "clue": "Who said, \"Am I my brother's keeper?\"",
+                        "solution": "Cain"
+                    },
+                    {
+                        "value": 300,
+                        "clue": "Who said, \"Speak, for your servant is listening\"",
+                        "solution": "Samuel"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Who said, \"Everything I heard in my country about your achievements and wisdom is true!... Truly I had not heard the half of it! Your wisdom is far greater than what I was told\"",
+                        "solution": "The Queen of Sheba"
+                    },
+                    {
+                        "value": 500,
+                        "clue": "Who said, \"You rebuke the arrogant, who are accursed, those who stray from your commands.\"",
+                        "solution": "David (Psalms 119:21)"
+                    }
+                ]
+            },
+            {
+                "category": "Where does it say",
+                "clues": [
+                    {
+                        "value": 100,
+                        "clue": "In the beginning there was light\u2026",
+                        "solution": "Genesis 1:1"
+                    },
+                    {
+                        "value": 200,
+                        "clue": "\"Remember the Sabbath\u00a0day by keeping it holy\u2026",
+                        "solution": "Exodus 20:8"
+                    },
+                    {
+                        "value": 300,
+                        "clue": "\"Observe the Sabbath Day by keeping it holy, as the Lord your God has commanded you.\"",
+                        "solution": "Deuteronomy 5:12"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "\"My servant Dad will be king over them, and they will all have one shepherd. They will follow my laws and be careful to keep my decrees\"",
+                        "solution": "Ezekeil 37:24"
+                    },
+                    {
+                        "value": 500,
+                        "clue": "\"For you have heard of my previous way of life in Judaism, how intensely I persecuted the church of God and tried to destroy it\"",
+                        "solution": "Galatians 1:13"
+                    }
+                ]
+            }
+        ],
+        "double": [
+            {
+                "category": "Old Testament   New Testament",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "The laws concerning dietary restrictions originate in which testament?",
+                        "solution": "Old Testament"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Which testament contains letters written to early churches?",
+                        "solution": "New Testament"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "What testament did Zacchaeus live in?",
+                        "solution": "New Testament"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "The sun stood still and the moon stopped by God's will",
+                        "solution": "Old Testament  (Jos 10:13)"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "How many chapters in total are there in the New Testament books?",
+                        "solution": "260 Chapters"
+                    }
+                ]
+            },
+            {
+                "category": "True or False",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Jesus turned water into wine at a wedding in Cana",
+                        "solution": "TRUE"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "The Bible has 66 books in total",
+                        "solution": "TRUE"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "Elijah was one of the judges of Isreal",
+                        "solution": "FALSE"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Elijah followed Elisha the prophet",
+                        "solution": "FALSE"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "he prophet Ezekiel records the exact day that Jerusalem fell to the Babylonians.",
+                        "solution": "TRUE (Ezekeil 24:1-2)"
+                    }
+                ]
+            },
+            {
+                "category": "Times and Dates",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Abolishment of the Passover",
+                        "solution": "325 AD"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Pentecost and the coming of the Holy Spirit",
+                        "solution": "30 AD"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "Construction of Solomon's Temple",
+                        "solution": "959 BC"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Fall of the Northern Kingdom of Israel to Assyria",
+                        "solution": "722 BC"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "The year that King Josiah of Judah was killed at Megiddo by Pharaoh Necho II",
+                        "solution": "609 BC"
+                    }
+                ]
+            },
+            {
+                "category": "Bible Facts",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "How many books are in the bible?",
+                        "solution": "66"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Who is known as the \"Weeping Prophet?\"",
+                        "solution": "Jeremiah (Jer 13:17, 14:17)"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "How many son's did Jacob have?",
+                        "solution": "Twelve sons"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Who was the first Apostle to be martyed?",
+                        "solution": "Apostle James (Ac 12:2)"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "How many human couples (i.e. Pairs of people) entered Noah's Ark?",
+                        "solution": "4 pairs of people (Gen 7:13)"
+                    }
+                ]
+            },
+            {
+                "category": "Bible History",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Who was the first king of Israel",
+                        "solution": "Saul"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Who built the first temple in Israel",
+                        "solution": "Solomon"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "Which empire destroyed the first temple",
+                        "solution": "Babylonian Empire"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "What major event happened 50 days after Jesus' resurrection",
+                        "solution": "Pentecost"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "To protect her family, when the Israelites stormed the city, what did Rahab hang out her window?",
+                        "solution": "A Scarlet rope"
+                    }
+                ]
+            },
+            {
+                "category": "Where does it say",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "For the wages of sin is death\u2026",
+                        "solution": "Romans 6:23"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, \u201cTake and eat; this is my body.\u201d",
+                        "solution": "Matthew 26:26"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "Blessed is the one who does this-- the person who holds it fast, who keeps the Sabbath without desecrating it, and keeps their hands from doing any evil.",
+                        "solution": "Isaiah 56:2"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "\"While the Israelites were in the wilderness, a man was found gathering wood on the Sabbath day\"",
+                        "solution": "Numbers 15:32"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "\"So do not fear, for I am with you; Do not be dismayed,  for I am your God. Will strengthen you and help you; I will uphold you with my righteous hand\"",
+                        "solution": "Isaiah 41:10"
+                    }
+                ]
+            }
+        ],
+        "final": {
+            "category": "Final Question",
+            "clue": "Who built the first temple in Israel",
+            "solution": "Solomon"
+        }
+    }
+}

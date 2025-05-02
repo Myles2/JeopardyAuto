@@ -1,0 +1,74 @@
+
+Value: 100, Clue: Abolishment of the Passover, Solution: 325 AD
+Value: 200, Clue: The Edict of Milan, Solution: 313 AD
+Value: 300, Clue: Construction of Solomon's Temple, Solution: 959 BC
+Value: 400, Clue: Fall of the Northern Kingdom of Israel to Assyria, Solution: 722 BC
+Value: 500, Clue: The year that King Josiah of Judah was killed at Megiddo by Pharaoh Necho II, Solution: 609 BC
+
+Value: 100, Clue: How many books are in the bible?, Solution: 66
+Value: 200, Clue: Who is known as the "Weeping Prophet?", Solution: Jeremiah (Jer 13:17, 14:17)
+Value: 300, Clue: Where is a prophet without honor?, Solution: In his own hometown. (Mark 6:4)
+Value: 400, Clue: In the parable of the Good Samaritan, who passed by the beaten man?, Solution: A Priest and a Levite
+Value: 500, Clue: What gifts did the three magi give to Jesus?, Solution: Gold, Frankincense, and Myrrh
+
+Value: 100, Clue: The first man to speak with God., Solution: Adam
+Value: 200, Clue: Who built the first temple in Israel, Solution: Solomon
+Value: 300, Clue: Which empire destroyed the first temple, Solution: Babylonian Empire
+Value: 400, Clue: What major event happened 50 days after Jesus' resurrection, Solution: Pentecost
+Value: 500, Clue: To protect her family, when the Israelites stormed the city, what did Rahab hang out her window?, Solution: A Scarlet rope
+
+Value: 100, Clue: Animal sacrifice, Solution: Old Testament
+Value: 200, Clue: The Ten Plagues occurred in Egypt, Solution: Old Testament
+Value: 300, Clue: Which testament speaks of a royal priesthood and a holy nation?, Solution: New Testament
+Value: 400, Clue: How many books of the Old Testament are classified as prophetic? (written by a prophet?), Solution: 17 Books
+Value: 500, Clue: How many books in the New Testament directly quote from the Old Testament?, Solution: 21 Books
+
+Value: 100, Clue: Who said, "Let there be light"?, Solution: God
+Value: 200, Clue: Who said, "Am I my brother's keeper?", Solution: Cain
+Value: 300, Clue: Who said, "Speak, for your servant is listening", Solution: Samuel
+Value: 400, Clue: Who said, "Everything I heard in my country about your achievements and wisdom is true!... Truly I had not heard the half of it! Your wisdom is far greater than what I was told", Solution: The Queen of Sheba
+Value: 500, Clue: Who said, "You rebuke the arrogant, who are accursed, those who stray from your commands.", Solution: David (Psalms 119:21)
+
+Value: 100, Clue: In the beginning there was light…, Solution: Genesis 1:1
+Value: 200, Clue: "Remember the Sabbath day by keeping it holy…, Solution: Exodus 20:8
+Value: 300, Clue: "Observe the Sabbath Day by keeping it holy, as the Lord your God has commanded you.", Solution: Deuteronomy 5:12
+Value: 400, Clue: "My servant Dad will be king over them, and they will all have one shepherd. They will follow my laws and be careful to keep my decrees", Solution: Ezekeil 37:24
+Value: 500, Clue: "For you have heard of my previous way of life in Judaism, how intensely I persecuted the church of God and tried to destroy it", Solution: Galatians 1:13
+
+Value: 200, Clue: The laws concerning dietary restrictions originate in which testament?, Solution: Old Testament
+Value: 400, Clue: Which testament contains letters written to early churches?, Solution: New Testament
+Value: 600, Clue: What testament did Zacchaeus live in?, Solution: New Testament
+Value: 800, Clue: The sun stood still and the moon stopped by God's will, Solution: Old Testament  (Jos 10:13)
+Value: 1000, Clue: How many chapters in total are there in the New Testament books?, Solution: 260 Chapters
+
+Value: 200, Clue: Jesus turned water into wine at a wedding in Cana, Solution: TRUE
+Value: 400, Clue: The Bible has 66 books in total, Solution: TRUE
+Value: 600, Clue: Elijah was one of the judges of Isreal, Solution: FALSE
+Value: 800, Clue: Elijah followed Elisha the prophet, Solution: FALSE
+Value: 1000, Clue: he prophet Ezekiel records the exact day that Jerusalem fell to the Babylonians., Solution: TRUE (Ezekeil 24:1-2)
+
+Value: 200, Clue: Abolishment of the Passover, Solution: 325 AD
+Value: 400, Clue: Pentecost and the coming of the Holy Spirit, Solution: 30 AD
+Value: 600, Clue: Construction of Solomon's Temple, Solution: 959 BC
+Value: 800, Clue: Fall of the Northern Kingdom of Israel to Assyria, Solution: 722 BC
+Value: 1000, Clue: The year that King Josiah of Judah was killed at Megiddo by Pharaoh Necho II, Solution: 609 BC
+
+Value: 200, Clue: How many books are in the bible?, Solution: 66
+Value: 400, Clue: Who is known as the "Weeping Prophet?", Solution: Jeremiah (Jer 13:17, 14:17)
+Value: 600, Clue: How many son's did Jacob have?, Solution: Twelve sons
+Value: 800, Clue: Who was the first Apostle to be martyed?, Solution: Apostle James (Ac 12:2)
+Value: 1000, Clue: How many human couples (i.e. Pairs of people) entered Noah's Ark?, Solution: 4 pairs of people (Gen 7:13)
+
+Value: 200, Clue: Who was the first king of Israel, Solution: Saul
+Value: 400, Clue: Who built the first temple in Israel, Solution: Solomon
+Value: 600, Clue: Which empire destroyed the first temple, Solution: Babylonian Empire
+Value: 800, Clue: What major event happened 50 days after Jesus' resurrection, Solution: Pentecost
+Value: 1000, Clue: To protect her family, when the Israelites stormed the city, what did Rahab hang out her window?, Solution: A Scarlet rope
+
+Value: 200, Clue: For the wages of sin is death…, Solution: Romans 6:23
+Value: 400, Clue: While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”, Solution: Matthew 26:26
+Value: 600, Clue: Blessed is the one who does this-- the person who holds it fast, who keeps the Sabbath without desecrating it, and keeps their hands from doing any evil., Solution: Isaiah 56:2
+Value: 800, Clue: "While the Israelites were in the wilderness, a man was found gathering wood on the Sabbath day", Solution: Numbers 15:32
+Value: 1000, Clue: "So do not fear, for I am with you; Do not be dismayed,  for I am your God. Will strengthen you and help you; I will uphold you with my righteous hand", Solution: Isaiah 41:10
+
+Final Question: Who built the first temple in Israel, Solution: Solomon
